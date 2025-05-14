@@ -7,22 +7,6 @@
       "password": "hashed_password_123",
       "role": "Manager",
       "profile_picture": "https://example.com/profiles/juan_zegarra.jpg"
-    },
-    {
-      "user_id": 2,
-      "name": "Verónica Delgado",
-      "email": "veronica.delgado@constructora.com",
-      "password": "hashed_password_456",
-      "role": "Supervisor",
-      "profile_picture": "https://example.com/profiles/veronica_delgado.jpg"
-    },
-    {
-      "user_id": 3,
-      "name": "Pedro Gómez",
-      "email": "pedro.gomez@developer.com",
-      "password": "hashed_password_789",
-      "role": "Developer",
-      "profile_picture": "https://example.com/profiles/pedro_gomez.jpg"
     }
   ],
   "projects": [
@@ -35,26 +19,6 @@
       "status": "Active",
       "user_id": 1,
       "image_url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg"
-    },
-    {
-      "project_id": 2,
-      "name": "Tienda B",
-      "start_date": "2025-06-01",
-      "end_date": "2025-09-01",
-      "budget": 50000.00,
-      "status": "Paused",
-      "user_id": 1,
-      "image_url": "https://images.pexels.com/photos/258447/pexels-photo-258447.jpeg"
-    },
-    {
-      "project_id": 3,
-      "name": "Casa C",
-      "start_date": "2025-04-15",
-      "end_date": "2025-10-15",
-      "budget": 80000.00,
-      "status": "Completed",
-      "user_id": 2,
-      "image_url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg"
     }
   ],
   "workers": [
@@ -64,20 +28,6 @@
       "role": "Albañil",
       "hired_date": "2025-05-02",
       "project_id": 1
-    },
-    {
-      "worker_id": 2,
-      "name": "María Fernández",
-      "role": "Carpintera",
-      "hired_date": "2025-06-03",
-      "project_id": 2
-    },
-    {
-      "worker_id": 3,
-      "name": "José Ramírez",
-      "role": "Electricista",
-      "hired_date": "2025-04-16",
-      "project_id": 3
     }
   ],
   "materials": [
@@ -97,42 +47,7 @@
   "payment_method": "Transferencia",
   "status": "Received"
 
-},
-{
-  "material_id": 2,
-  "project_id": 2,
-  "name": "Madera",
-
-  "quantity": 200,
-  "stock": 180,
-  "unit_price": 15.00,
-  "unit": "m3",
-  "provider": "Maderera Sur",
-  "provider_ruc": "20567890123",
-  "date": "2025-06-04",
-  "receipt_number": "REC-002",
-  "payment_method": "Efectivo",
-  "status": "Received"
-
-},
-{
-  "material_id": 3,
-  "project_id": 3,
-  "name": "Acero",
-
-  "quantity": 1000,
-  "stock": 900,
-  "unit_price": 5.20,
-  "unit": "kg",
-  "provider": "Aceros Norte",
-  "provider_ruc": "20678901234",
-  "date": "2025-04-17",
-  "receipt_number": "REC-003",
-  "payment_method": "Transferencia",
-  "status": "Received"
-
 }
-
   ],
   "machinery": [
     {
@@ -142,22 +57,6 @@
       "register_date": "2025-05-02",
       "estatus": "Operativa",
       "project_id": 1
-    },
-    {
-      "machine_id": 2,
-      "name": "Excavadora",
-      "license_plate": "EX456",
-      "register_date": "2025-06-03",
-      "estatus": "En Mantenimiento",
-      "project_id": 2
-    },
-    {
-      "machine_id": 3,
-      "name": "Grúa",
-      "license_plate": "GR789",
-      "register_date": "2025-04-16",
-      "estatus": "Operativa",
-      "project_id": 3
     }
   ],
   "incidents": [
@@ -168,22 +67,6 @@
       "severity": "Alta",
       "status": "Pendiente",
       "project_id": 1
-    },
-    {
-      "incident_id": 2,
-      "date": "2025-06-05",
-      "incident_type": "Accidente Laboral",
-      "severity": "Media",
-      "status": "Resuelto",
-      "project_id": 2
-    },
-    {
-      "incident_id": 3,
-      "date": "2025-04-20",
-      "incident_type": "Falla de Maquinaria",
-      "severity": "Baja",
-      "status": "Resuelto",
-      "project_id": 3
     }
   ]
 }
