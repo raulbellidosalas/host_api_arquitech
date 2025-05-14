@@ -36,24 +36,5 @@
       "unit_price": 25.50
 
     }
-  ],
-  "machinery": [
-    {
-      "machine_id": 1,
-      "name": "Mezcladora",
-      "license_plate": "MX123",
-      "estatus": "Operativa",
-      "project_id": 1
-    }
-  ],
-  "incidents": [
-    {
-      "incident_id": 1,
-      "date": "2025-05-05",
-      "incident_type": "Falta de Material",
-      "severity": "Alta",
-      "status": "Pendiente",
-      "project_id": 1
-    }
   ]
 }
