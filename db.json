@@ -6,38 +6,5 @@
       "email": "juan.zegarra@constructora.com",
       "password": "hashed_password_123"
     }
-  ],
-  "projects": [
-    {
-      "project_id": 1,
-      "name": "Construcción Edificio A",
-      "user_id": 1,
-      "image_url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg"
-    }
-  ],
-  "workers": [
-    {
-      "worker_id": 1,
-      "name": "Carlos López",
-      "role": "Albañil",
-      "project_id": 1
-    }
-  ],
-  "materials": [
-    {
-      "material_id": 1,
-      "project_id": 1,
-      "name": "Cemento",
-      "quantity": 500,
-      "unit_price": 25.50
-    }
-  ],
-  "machinery": [
-    {
-      "machine_id": 1,
-      "name": "Mezcladora",
-      "estatus": "Operativa",
-      "project_id": 1
-    }
   ]
 }
