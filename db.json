@@ -1,10 +1,1 @@
-{
-  "users": [
-    {
-      "user_id": 1,
-      "name": "Juan Carlos Zegarra",
-      "email": "juan.zegarra@constructora.com",
-      "password": "hashed_password_123"
-    }
-  ]
-}
+
