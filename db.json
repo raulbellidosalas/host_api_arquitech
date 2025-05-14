@@ -5,14 +5,12 @@
       "email": "juan.zegarra@constructora.com",
       "password": "hashed_password_123",
       "role": "Manager"
-
     }
   ],
   "projects": [
     {
       "project_id": 1,
       "name": "Construcción Edificio A",
-    
       "user_id": 1,
       "image_url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg"
     }
@@ -31,8 +29,6 @@
       "project_id": 1,
       "name": "Cemento",
       "quantity": 500,
-
-
     }
   ]
 }
