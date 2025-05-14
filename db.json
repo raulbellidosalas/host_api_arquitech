@@ -12,7 +12,7 @@
     {
       "project_id": 1,
       "name": "Construcción Edificio A",
-      "status": "Active",
+    
       "user_id": 1,
       "image_url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg"
     }
@@ -22,7 +22,6 @@
       "worker_id": 1,
       "name": "Carlos López",
       "role": "Albañil",
-      "hired_date": "2025-05-02",
       "project_id": 1
     }
   ],
@@ -32,8 +31,7 @@
       "project_id": 1,
       "name": "Cemento",
       "quantity": 500,
-      "stock": 450,
-      "unit_price": 25.50
+
 
     }
   ]
