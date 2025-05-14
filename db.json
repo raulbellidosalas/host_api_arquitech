@@ -38,7 +38,6 @@
       "project_id": 1,
       "name": "Cemento",
       "quantity": 500,
-      "stock": 450,
       "unit_price": 25.50
      
     }
@@ -48,7 +47,6 @@
       "machine_id": 1,
       "name": "Mezcladora",
       "license_plate": "MX123",
-      "register_date": "2025-05-02",
       "estatus": "Operativa",
       "project_id": 1
     }
