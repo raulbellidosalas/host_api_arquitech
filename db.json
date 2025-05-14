@@ -28,13 +28,6 @@
       "role": "Albañil",
       "hired_date": "2025-05-02",
       "project_id": 1
-    }
-    {
-      "worker_id": 4,
-      "name": "Laura Sánchez",
-      "role": "Pintora",
-      "hired_date": "2025-05-03",
-      "project_id": 1
     },
     {
       "worker_id": 5,
@@ -59,21 +52,6 @@
       "receipt_number": "REC-001",
       "payment_method": "Transferencia",
       "status": "Received"
-    },
-    {
-      "material_id": 2,
-      "project_id": 2,
-      "name": "Madera",
-      "quantity": 200,
-      "stock": 180,
-      "unit_price": 15.00,
-      "unit": "m3",
-      "provider": "Maderera Sur",
-      "provider_ruc": "20567890123",
-      "date": "2025-06-04",
-      "receipt_number": "REC-002",
-      "payment_method": "Efectivo",
-      "status": "Received"
     }
   ],
   "machinery": [
@@ -82,14 +60,6 @@
       "name": "Mezcladora",
       "license_plate": "MX123",
       "register_date": "2025-05-02",
-      "estatus": "Operativa",
-      "project_id": 1
-    },
-    {
-      "machine_id": 4,
-      "name": "Bulldozer",
-      "license_plate": "BZ012",
-      "register_date": "2025-05-03",
       "estatus": "Operativa",
       "project_id": 1
     }
