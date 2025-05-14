@@ -6,7 +6,7 @@
       "email": "juan.zegarra@constructora.com",
       "password": "hashed_password_123",
       "role": "Manager"
-     
+
     }
   ],
   "projects": [
@@ -32,26 +32,17 @@
       "material_id": 1,
       "project_id": 1,
       "name": "Cemento",
+      "quantity": 500,
+      "stock": 450,
+      "unit_price": 25.50
 
-  "quantity": 500,
-  "stock": 450,
-  "unit_price": 25.50,
-  "unit": "kg",
-  "provider": "ConstruMax",
-  "provider_ruc": "20456789012",
-  "date": "2025-05-03",
-  "receipt_number": "REC-001",
-  "payment_method": "Transferencia",
-  "status": "Received"
-
-}
+    }
   ],
   "machinery": [
     {
       "machine_id": 1,
       "name": "Mezcladora",
       "license_plate": "MX123",
-      "register_date": "2025-05-02",
       "estatus": "Operativa",
       "project_id": 1
     }
@@ -67,4 +58,3 @@
     }
   ]
 }
-
