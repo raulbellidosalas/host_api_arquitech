@@ -21,14 +21,6 @@
       "worker_id": 1,
       "name": "Carlos López",
       "role": "Albañil",
-      "hired_date": "2025-05-02",
-      "project_id": 1
-    },
-    {
-      "worker_id": 5,
-      "name": "Miguel Castro",
-      "role": "Plomero",
-      "hired_date": "2025-05-04",
       "project_id": 1
     }
   ],
@@ -46,7 +38,6 @@
     {
       "machine_id": 1,
       "name": "Mezcladora",
-      "license_plate": "MX123",
       "estatus": "Operativa",
       "project_id": 1
     }
