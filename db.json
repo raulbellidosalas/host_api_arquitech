@@ -6,16 +6,13 @@
       "email": "juan.zegarra@constructora.com",
       "password": "hashed_password_123",
       "role": "Manager",
-      "profile_picture": "https://example.com/profiles/juan_zegarra.jpg"
+     
     }
   ],
   "projects": [
     {
       "project_id": 1,
       "name": "Construcción Edificio A",
-      "start_date": "2025-05-01",
-      "end_date": "2025-12-01",
-      "budget": 120000.00,
       "status": "Active",
       "user_id": 1,
       "image_url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg"
